@@ -16,6 +16,13 @@ I'm currently a Sr Program Manager at Microsoft in the Academic Ecosystems team 
 ## Projects
 
 ## Blog
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 ## Resume
 
