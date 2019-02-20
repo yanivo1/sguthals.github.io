@@ -1,3 +1,8 @@
+---
+title: Sarah
+layout: default
+---
+
 # Sarah Guthals, PhD
 
 I’m from San Diego, born, raised, and still live here. I went to UC San Diego where I earned a BS, MS, and PhD in Computer Science with an emphasis on education. My dissertation was “Designing Learning Experiences that Enculturate Novices”, which focused on computer science education for novices of every age; from K-12, to university, to full-time teachers who were asked to learn computer science so they could teach AP CS the following year. 
