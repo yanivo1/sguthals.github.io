@@ -1,6 +1,6 @@
 ---
 title: Sarah
-layout: default
+layout: portfolio
 ---
 
 # Sarah Guthals, PhD
