@@ -1,6 +1,6 @@
 ---
 title: Adrian
-layout: default
+layout: portfolio
 ---
 
 # Adrian Guthals, PhD
