@@ -1,3 +1,8 @@
+---
+title: Ayla
+layout: default
+---
+
 # Ayla Guthals
 
 Ayla is an incredible one year old. She loves exploring, coloring, playing with her animals, and being outside. She is learning to talk and is one of the most caring people.
