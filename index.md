@@ -1,4 +1,7 @@
-# Guthals Family
+---
+title: Guthals Family 
+layout: default
+---
 
 We're Sarah, Adrian, and Ayla Guthals. We live in San Diego with our puppy and two kitties. Sarah is a Sr Program Manager at Microsoft, Adrian is a Sr Bioinformatics Scientist at Sirenas and Mapp Biopharmaceuticals, and Ayla is an incredible one year old with an amazing heart, brain, and personality!
 
