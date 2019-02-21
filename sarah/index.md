@@ -13,7 +13,7 @@ I'm currently a Sr Program Manager at Microsoft in the Academic Ecosystems team 
 
 ## Publications
 ### 2019 - Published as Sarah Guthals
-- GitHub For Dummies - [Book](https://www.amazon.com/GitHub-Dummies-Guthals/dp/1119572673/)
+**GitHub For Dummies** - [Book](https://www.amazon.com/GitHub-Dummies-Guthals/dp/1119572673/)
 <details><summary>Abstract</summary>
 <p>
 Code collaboratively with GitHub
@@ -161,9 +161,9 @@ If you're one of the millions of kids who play Minecraft every day, this hands-o
 ### 2014 - Published as Sarah Esper
 **Computing as the 4th “R”** - [Slides](https://docs.google.com/presentation/d/1bqWClY01xurmtxVeDe4HkmHfWufykarlmMhiNhWKxKs/edit#slide=id.p) - Deeper Learning Workshop
 
-**CodeSpells: Teaching Young Students Java – A Focus on Written Work** - [Paper](https://drive.google.com/file/d/0B404RPOa1C5sVHVVcDA1X211VVk/edit) | [Slides](https://drive.google.com/file/d/0B404RPOa1C5sQmsyeW9MM0xZc2s/edit) - ICER Lightning Talk
+**CodeSpells: Teaching Young Students Java – A Focus on Written Work** - [Paper](https://drive.google.com/file/d/0B404RPOa1C5sVHVVcDA1X211VVk/edit) / [Slides](https://drive.google.com/file/d/0B404RPOa1C5sQmsyeW9MM0xZc2s/edit) - ICER Lightning Talk
 
-**CodeSpells: bridging educational language features with industry-standard languages** - [Paper](https://dl.acm.org/citation.cfm?id=2674683.2674684&coll=DL&dl=ACM) | [Video](https://drive.google.com/file/d/0B9MGaL4KtkZ_WTkyOWNmMmpPamc/view) | [Slides](https://drive.google.com/file/d/0B6-b8ZnEK-l2YzRUTjZuVVBWQmc/view) - Koli Calling
+**CodeSpells: bridging educational language features with industry-standard languages** - [Paper](https://dl.acm.org/citation.cfm?id=2674683.2674684&coll=DL&dl=ACM) / [Video](https://drive.google.com/file/d/0B9MGaL4KtkZ_WTkyOWNmMmpPamc/view) / [Slides](https://drive.google.com/file/d/0B6-b8ZnEK-l2YzRUTjZuVVBWQmc/view) - Koli Calling
 <details><summary>Abstract + Ref</summary>
 <p>
 K-12 Computer Science Education has been an increasingly popular topic worldwide. Additionally, with K-12 standardized testing moving online, students are being required to improve their computer skills, which, among other factors, has also motivated the discussion to add computer science to the core curriculum [6, 8, 35, 22]. Educational programming languages, such as Scratch [25] and Alice [11], have a set of features that foster their use with younger students [27] such as drag-and-drop, limited API, and visual output. Given that novices can be introduced to such educational languages with a basic understanding of computer science concepts, industry-standard programming languages like Java can now be introduced to younger students.
@@ -178,7 +178,7 @@ Sarah Esper, Stephen R. Foster, William G. Griswold, Carlos Herrera, and Wyatt S
 </p>
 </details>
 
-**It Is Not Just About Mass Production Of Learning** - [Paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvbmxpbmVlZHVjYXRpb253b3Jrc2hvcHxneDozYmYyODc4MWU3MWY4YjU4) | [Slides](https://docs.google.com/presentation/u/6/d/1wbc36Fxf5dqLC8_OfriIiKfVdHgARsc4XUATphosmb8/edit#slide=id.g32efc8841_056) - CHI
+**It Is Not Just About Mass Production Of Learning** - [Paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvbmxpbmVlZHVjYXRpb253b3Jrc2hvcHxneDozYmYyODc4MWU3MWY4YjU4) / [Slides](https://docs.google.com/presentation/u/6/d/1wbc36Fxf5dqLC8_OfriIiKfVdHgARsc4XUATphosmb8/edit#slide=id.g32efc8841_056) - CHI
 <details><summary>Abstract + Ref</summary>
 <p>
 Collaborative and community learning is well researched in traditional learning spaces. Communities of Practice and Computer Supported Collaborative Learning spaces and pedagogies support learners to experience learning through activities, personal interactions and innovative technologies. This becomes more difficult when designing learning at scale environments because these environments need to motivate learners while not being able to impart the values of the discipline through in-person interactions. In this work we introduce an alternative learning at scale environment, CodeSpells. CodeSpells is an epistemic game that attempts to motivates learners to acquire knowledge, develop skills, embrace values, identify with the discipline, and gain the ability to authentically problem solve. Through this work we will show how the theory of Epistemic Frames is critical to motivating and enculturating learners not only in our non-traditional environment, but also in more traditional MOOC-like learning at scale approaches.
@@ -189,7 +189,7 @@ Sarah Esper, Sam R. Wood, Stephen R. Foster, Sorin Lerner, William G. Griswold, 
 </p>
 </details>
 
-**A Discussion on Adopting Peer Instruction in a Course Focused on Risk Management** - [Paper](https://dl.acm.org/citation.cfm?id=2591468.2591496&coll=DL&dl=ACM) | [Slides](https://docs.google.com/presentation/d/1GiXHYIQIG451IYxbhV_RS8FnIR9t69kKqvEJaBcY8P0/edit) - Journal of Computer Science
+**A Discussion on Adopting Peer Instruction in a Course Focused on Risk Management** - [Paper](https://dl.acm.org/citation.cfm?id=2591468.2591496&coll=DL&dl=ACM) / [Slides](https://docs.google.com/presentation/d/1GiXHYIQIG451IYxbhV_RS8FnIR9t69kKqvEJaBcY8P0/edit) - Journal of Computer Science
 <details><summary>Abstract + Ref</summary>
 <p>
 Peer Instruction (PI) has been shown to promote learning in introductory CS courses as well as upper-division courses such as architecture. A common thread among PI courses is that they focus on programs, algorithms, or equations that follow clear rules. In these courses there is usually one answer, though there may be varying approaches to finding it. An open-question in the PI research is: How could PI be incorporated in a course such as Software Engineering, where the focus is risk management and is therefore situational and dependent on personal experience and resources? This paper addresses one approach to developing PI materials for such a course. The pedagogy has been slightly modified: the instructor asks clicker questions, but then asks the students to call out suggestions for the answers. This paper describes this change and presents data from a student survey about their experiences. A call to the community is made to discuss how this and other modifications may be beneficial pedagogical changes to PI.
