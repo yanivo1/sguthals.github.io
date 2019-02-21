@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exploring Azure"
-categories: [blog, tech
+categories: [blog, tech]
 tags: [novice, azure]
 ---
 
