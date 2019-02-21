@@ -287,15 +287,6 @@ Beth Simon, Sarah Esper and Quintin Cutts. 2011. Experience Report: an AP CS Pr
 
 ## Projects
 
-## Blog
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title - post.date}}</a>
-    </li>
-  {% endfor %}
-</ul>
-
 ## Contact
 sarah@guthals.com  
 sarah@thewecan.zone  
