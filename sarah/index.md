@@ -340,8 +340,6 @@ Beth Simon, Sarah Esper and Quintin Cutts. 2011. Experience Report: an AP CS Pr
   {% endfor %}
 </ul>
 
-## Resume
-
 ## Contact
 
 ### All of the Emails
