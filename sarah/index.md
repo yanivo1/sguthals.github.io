@@ -33,6 +33,7 @@ Apply math skills to coding
 If you’re a parent, teacher, or mentor eager to help 8 to 14 year olds learn to speak a coding language like a mini pro, this book makes it possible!
 </p>
 </details>
+
 ### 2017 - Published as Sarah Guthals
 #### Building a Mobile App: Design and Program Your Own App! - [Book](https://www.amazon.com/Building-Mobile-App-Program-Dummies-ebook/dp/B073RSMYHC/ref=sr_1_1?ie=UTF8&qid=1541355453&sr=8-1)
 <details><summary>Abstract</summary>
@@ -120,6 +121,7 @@ Finishes with a multi-level, multi-player game based on the classic “capture t
 With simple and clear instruction that your child can understand, Modding Minecraft is the perfect place for your kid to dig deep and open up a whole new world in their creative play.
 </p>
 </details>
+
 #### Minecraft Modding For Kids For Dummies - [Book](https://www.amazon.com/Minecraft-Modding-Dummies-Stephen-Foster-ebook/dp/B010814NW6/ref=sr_1_1?ie=UTF8&qid=1541355236&sr=8-1&keywords=Minecraft+Modding+Dummies)
 <details><summary>Abstract</summary>
 <p>
@@ -138,6 +140,7 @@ Offers next steps you can take if you want to learn even more about modding and 
 If you're one of the millions of kids who play Minecraft every day, this hands-on guide gets you up and running fast with modding your favorite game!
 </p>
 </details>
+
 ### 2014 - Published as Sarah Esper
 #### Computing as the 4th “R” - [Slides](https://docs.google.com/presentation/d/1bqWClY01xurmtxVeDe4HkmHfWufykarlmMhiNhWKxKs/edit#slide=id.p) - Deeper Learning Workshop
 
@@ -157,6 +160,7 @@ Ref:
 Sarah Esper, Stephen R. Foster, William G. Griswold, Carlos Herrera, and Wyatt Snyder. 2014. CodeSpells: bridging educational language features with industry-standard languages. In Proceedings of the 14th Koli Calling International Conference on Computing Education Research (Koli Calling '14). ACM, New York, NY, USA, 05-14. DOI=10.1145/2674683.2674684 http://doi.acm.org/10.1145/2674683.2674684
 </p>
 </details>
+
 #### It Is Not Just About Mass Production Of Learning - [Paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvbmxpbmVlZHVjYXRpb253b3Jrc2hvcHxneDozYmYyODc4MWU3MWY4YjU4) | [Slides](https://docs.google.com/presentation/u/6/d/1wbc36Fxf5dqLC8_OfriIiKfVdHgARsc4XUATphosmb8/edit#slide=id.g32efc8841_056) - CHI
 <details><summary>Abstract + Ref</summary>
 <p>
@@ -167,6 +171,7 @@ Ref:
 Sarah Esper, Sam R. Wood, Stephen R. Foster, Sorin Lerner, William G. Griswold, Jared J. Defigh, Ayesha Mazumdar, Carlos Herrera, Tom Lieber, Greg Ord, Wyatt Snyder. 2014. A discussion on adopting peer instruction in a course focused on risk management. CHI'14. Learning Innovations at Scale Workshop.
 </p>
 </details>
+
 #### A Discussion on Adopting Peer Instruction in a Course Focused on Risk Management - [Paper](https://dl.acm.org/citation.cfm?id=2591468.2591496&coll=DL&dl=ACM) | [Slides](https://docs.google.com/presentation/d/1GiXHYIQIG451IYxbhV_RS8FnIR9t69kKqvEJaBcY8P0/edit) - Journal of Computer Science
 <details><summary>Abstract + Ref</summary>
 <p>
@@ -177,6 +182,7 @@ Ref:
 Sarah Esper. 2014. A discussion on adopting peer instruction in a course focused on risk management. J. Comput. Sci. Coll. 29, 4 (April 2014), 175-182.
 </p>
 </details>
+
 #### CodeSpells: How to Design Quests to Teach Java Concepts - [Paper](https://dl.acm.org/citation.cfm?id=2591468.2591490&coll=DL&dl=ACM) | [Slides](https://docs.google.com/presentation/d/1G1Awc1ul4ZrhtS_UlXJJOAZVJ-QdZNhSUWO6OKm7lso/edit) - Journal of Computer Science
 <details><summary>Abstract + Ref</summary>
 <p>
@@ -187,6 +193,7 @@ Ref:
 Sarah Esper, Samantha R. Wood, Stephen R. Foster, Sorin Lerner, and William G. Griswold. 2014. Codespells: how to design quests to teach java concepts. J. Comput. Sci. Coll. 29, 4 (April 2014), 114-122.
 </p>
 </details>
+
 #### Children's Perceptions of What Counts as a Programming Language - [Paper](https://dl.acm.org/citation.cfm?id=2591468.2591491&coll=DL&dl=ACM) - Journal of Computer Science
 <details><summary>Abstract + Ref</summary>
 <p>
@@ -197,6 +204,7 @@ Ref:
 Colleen Lewis, Sarah Esper, Victor Bhattacharyya, Noelle Fa-Kaji, Neftali Dominguez, and Arielle Schlesinger. 2014. Children's perceptions of what counts as a programming language. J. Comput. Sci. Coll. 29, 4 (April 2014), 123-133.
 </p>
 </details>
+
 ### 2013 - Published as Sarah Esper
 #### Learning to Program with Magic - [Slides](https://docs.google.com/presentation/d/1U62KA-zAklXyExzOKl8ArK5GrvaPOU2s8Y61n7m8ZfE/edit#slide=id.p13) - MozFest
 
@@ -212,6 +220,7 @@ Ref:
 Beth Simon, Sarah Esper, Leo Porter, and Quintin Cutts. 2013. Student experience in a student-centered peer instruction classroom. In Proceedings of the ninth annual international ACM conference on International computing education research (ICER '13). ACM, New York, NY, USA, 129-136.
 </p>
 </details>
+
 #### CodeSpells: Embodying the Metaphor of Wizardry through Programming - [Paper](https://dl.acm.org/citation.cfm?id=2462476.2465593&coll=DL&dl=ACM) - ITiCSE
 <details><summary>Abstract + Ref</summary>
 <p>
@@ -224,6 +233,7 @@ Ref:
 Sarah Esper, Stephen R. Foster, and William G. Griswold. 2013. CodeSpells: embodying the metaphor of wizardry for programming. In Proceedings of the 18th ACM conference on Innovation and technology in computer science education (ITiCSE '13). ACM, New York, NY, USA, 249-254.
 </p>
 </details>
+
 #### On the Nature of Fires and How to Spark Them When You’re Not There - [Paper](https://dl.acm.org/citation.cfm?id=2445290) - SIGCSE
 <details><summary>Abstract + Ref</summary>
 <p>
@@ -234,6 +244,7 @@ Ref:
 Sarah Esper, Stephen R. Foster, and William G. Griswold. 2013. On the nature of fires and how to spark them when you're not there. In Proceeding of the 44th ACM technical symposium on Computer science education (SIGCSE '13). ACM, New York, NY, USA, 305-310.  
 </p>
 </details>
+
 #### A Post-Broccoli Paradigm: Educational Games with Diverse, Sustainable Ecosystems - [Paper](https://dl.acm.org/citation.cfm?id=2470654.2470669&coll=DL&dl=ACM) - CHI
 <details><summary>Abstract + Ref</summary>
 <p>
@@ -254,6 +265,7 @@ Ref:
 Sarah Esper. Understanding the Expert Debugging Process to Inform the Design of Debugging Tools. UCSD. 2013.
 </p>
 </details>
+
 #### Exploratory Homeworks: An Active Learning Tool for Textbook Reading - [Paper](http://dl.acm.org/citation.cfm?id=2361276.2361297&coll=DL&dl=ACM&CFID=157125212&CFTOKEN=72878032) - ICER
 <details><summary>Abstract + Ref</summary>
 <p>
@@ -265,6 +277,7 @@ Sarah Esper, Beth Simon, and Quintin Cutts. 2012. Exploratory homeworks: an acti
 
 </p>
 </details>
+
 #### The Abstraction Transition Taxonomy: Developing Desired Learning Outcomes through the Lens of Situated Cognition - [Paper](http://dl.acm.org/citation.cfm?id=2361276.2361290&coll=DL&dl=ACM&CFID=157125212&CFTOKEN=72878032) - ICER
 <details><summary>Abstract + Ref</summary>
 <p>
@@ -275,6 +288,7 @@ Ref:
 Quintin Cutts, Sarah Esper, Marlena Fecho, Stephen R. Foster, and Beth Simon. 2012. The abstraction transition taxonomy: developing desired learning outcomes through the lens of situated cognition. In Proceedings of the ninth annual international conference on International computing education research (ICER '12). ACM, New York, NY, USA, 63-70.
 </p>
 </details>
+
 ### 2011 - Published as Sarah Esper
 #### Computing as the 4th "R": a general education approach to computing education - [Paper](http://dl.acm.org/citation.cfm?id=2016938&bnc=1) - ICER
 <details><summary>Abstract + Ref</summary>
@@ -287,7 +301,6 @@ Quintin Cutts, Sarah Esper, and Beth Simon. 2011. Computing as the 4th "R": a ge
 </p>
 </details>
 
-
 #### Experience Report: an AP CS Principles AP Requirement - [Paper](https://csetechrep.ucsd.edu/Dienst/UI/2.0/Describe/ncstrl.ucsd_cse/CS2011-0965) - UCSD Technical Report
 <details><summary>Abstract + Ref</summary>
 <p>
@@ -298,6 +311,7 @@ Ref:
 Beth Simon, Sarah Esper and Quintin Cutts. 2011. Experience Report: an AP CS Principles University Pilot.  Technical Report CS 2011-0965. University of California at San Diego. 
 </p>
 </details>
+
 ## Projects
 
 ## Blog
