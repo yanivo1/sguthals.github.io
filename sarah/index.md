@@ -291,4 +291,4 @@ Beth Simon, Sarah Esper and Quintin Cutts. 2011. Experience Report: an AP CS Pr
 sarah@guthals.com  
 sarah@thewecan.zone  
 sguthals@microsoft.com
-
+![twitterlogo](https://user-images.githubusercontent.com/1314285/53188872-1771c800-35bb-11e9-89de-25809dff67d9.png) <a href="https://twitter.com/sarahguthals" target="_blank">@sarahguthals</a>
