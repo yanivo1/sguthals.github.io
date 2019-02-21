@@ -30,7 +30,7 @@ From setting up GitHub on your desktop and launching your first project to cloni
 </p>
 </details>
 ### 2018 - Published as Sarah Guthals
-- Helping Kids with Coding For Dummies - [Book](https://www.amazon.com/Helping-Coding-Dummies-Camille-McCue-ebook/dp/B07CF86KRL/ref=sr_1_4?ie=UTF8&qid=1541355069&sr=8-4)
+**Helping Kids with Coding For Dummies** - [Book](https://www.amazon.com/Helping-Coding-Dummies-Camille-McCue-ebook/dp/B07CF86KRL/ref=sr_1_4?ie=UTF8&qid=1541355069&sr=8-4)
 <details><summary>Abstract</summary>
 <p>
 Help for grown-ups new to coding
@@ -52,7 +52,7 @@ If you’re a parent, teacher, or mentor eager to help 8 to 14 year olds learn t
 </details>
 
 ### 2017 - Published as Sarah Guthals
-- Building a Mobile App: Design and Program Your Own App! - [Book](https://www.amazon.com/Building-Mobile-App-Program-Dummies-ebook/dp/B073RSMYHC/ref=sr_1_1?ie=UTF8&qid=1541355453&sr=8-1)
+**Building a Mobile App: Design and Program Your Own App!** - [Book](https://www.amazon.com/Building-Mobile-App-Program-Dummies-ebook/dp/B073RSMYHC/ref=sr_1_1?ie=UTF8&qid=1541355453&sr=8-1)
 <details><summary>Abstract</summary>
 <p>
 Coding is cool, and these fun projects help you get started today!
@@ -73,7 +73,7 @@ Adults all over the world turn to For Dummies books for clear instruction with a
 </p>
 </details>
 
-- Write Code Like a Pro: Create Working Applications - [Book](https://www.amazon.com/Write-Code-Like-Pro-Applications/dp/1119404177/ref=sr_1_6?ie=UTF8&qid=1541355069&sr=8-6)
+**Write Code Like a Pro: Create Working Applications** - [Book](https://www.amazon.com/Write-Code-Like-Pro-Applications/dp/1119404177/ref=sr_1_6?ie=UTF8&qid=1541355069&sr=8-6)
 <details><summary>Abstract</summary>
 <p>
 CODERS ARE ROCK STARS
@@ -88,7 +88,7 @@ Make things happen – create a working application you can share with friends
 </p>
 </details>
 
-- Little Book of Griefs: Minecraft Education Edition: Tips for Kids (1) - [Book](https://www.amazon.com/Little-Book-Griefs-Minecraft-Education/dp/1521867844/ref=sr_1_7?ie=UTF8&qid=1541355069&sr=8-7)
+**Little Book of Griefs: Minecraft Education Edition: Tips for Kids (1)** - [Book](https://www.amazon.com/Little-Book-Griefs-Minecraft-Education/dp/1521867844/ref=sr_1_7?ie=UTF8&qid=1541355069&sr=8-7)
 <details><summary>Abstract</summary>
 <p>
 You can now Mod your Minecraft Education Edition! And what better way to start than to grief your new worlds?? Though when we are in our friends worlds, we want to be respectful, in our own worlds, we can grief everything we want! This book teaches you four awesome mods to write to grief. Invite your friends into your world and watch their surprise as you blow up mountains, make lava pits, and have monsters attack from all angles. Don't worry - you're still in control...or are you?
@@ -96,7 +96,7 @@ You can now Mod your Minecraft Education Edition! And what better way to start t
 </details>
 
 ### 2016 - Published as Sarah Guthals
-- Building a Minecraft City: Build Like a Pro! (Dummies Junior) - [Book](https://www.amazon.com/Building-Minecraft-City-Dummies-Junior/dp/1119316413/ref=sr_1_1?ie=UTF8&qid=1541355371&sr=8-1&keywords=Building+a+Minecraft+City)
+**Building a Minecraft City: Build Like a Pro! (Dummies Junior)** - [Book](https://www.amazon.com/Building-Minecraft-City-Dummies-Junior/dp/1119316413/ref=sr_1_1?ie=UTF8&qid=1541355371&sr=8-1&keywords=Building+a+Minecraft+City)
 <details><summary>Abstract</summary>
 <p>
 The coolest kid-friendly Minecraft projects
@@ -118,7 +118,7 @@ Screen time can be as educational as it is fun, and this book shows your child h
 </details>
 
 ### 2015 - Published as Sarah Guthals
-- Modding Minecraft: Build Your Own Minecraft Mods! (Dummies Junior) - [Book](https://www.amazon.com/Modding-Minecraft-Build-Dummies-Junior-ebook/dp/B012X605OE/ref=sr_1_2?ie=UTF8&qid=1541355213&sr=8-2&keywords=modding+minecraft+for+dummies)
+**Modding Minecraft: Build Your Own Minecraft Mods! (Dummies Junior)** - [Book](https://www.amazon.com/Modding-Minecraft-Build-Dummies-Junior-ebook/dp/B012X605OE/ref=sr_1_2?ie=UTF8&qid=1541355213&sr=8-2&keywords=modding+minecraft+for+dummies)
 <details><summary>Abstract</summary>
 <p>
 My kid can mod Minecraft? Oh my!
@@ -139,7 +139,7 @@ With simple and clear instruction that your child can understand, Modding Minecr
 </p>
 </details>
 
-- Minecraft Modding For Kids For Dummies - [Book](https://www.amazon.com/Minecraft-Modding-Dummies-Stephen-Foster-ebook/dp/B010814NW6/ref=sr_1_1?ie=UTF8&qid=1541355236&sr=8-1&keywords=Minecraft+Modding+Dummies)
+**Minecraft Modding For Kids For Dummies** - [Book](https://www.amazon.com/Minecraft-Modding-Dummies-Stephen-Foster-ebook/dp/B010814NW6/ref=sr_1_1?ie=UTF8&qid=1541355236&sr=8-1&keywords=Minecraft+Modding+Dummies)
 <details><summary>Abstract</summary>
 <p>
 Are you a Minecraft fanatic looking to mod your games? Hours of fun await! Minecraft Modding For Kids For Dummies teaches you how to mod in easy-to-do parts. Offering loads of helpful explanations and cool projects along the way, this friendly guide will have you advancing levels, keeping score, respawning players, building portals, creating an archery range—and much more—faster than you can say redstone!
@@ -159,11 +159,11 @@ If you're one of the millions of kids who play Minecraft every day, this hands-o
 </details>
 
 ### 2014 - Published as Sarah Esper
-- Computing as the 4th “R” - [Slides](https://docs.google.com/presentation/d/1bqWClY01xurmtxVeDe4HkmHfWufykarlmMhiNhWKxKs/edit#slide=id.p) - Deeper Learning Workshop
+**Computing as the 4th “R”** - [Slides](https://docs.google.com/presentation/d/1bqWClY01xurmtxVeDe4HkmHfWufykarlmMhiNhWKxKs/edit#slide=id.p) - Deeper Learning Workshop
 
-- CodeSpells: Teaching Young Students Java – A Focus on Written Work - [Paper](https://drive.google.com/file/d/0B404RPOa1C5sVHVVcDA1X211VVk/edit) | [Slides](https://drive.google.com/file/d/0B404RPOa1C5sQmsyeW9MM0xZc2s/edit) - ICER Lightning Talk
+**CodeSpells: Teaching Young Students Java – A Focus on Written Work** - [Paper](https://drive.google.com/file/d/0B404RPOa1C5sVHVVcDA1X211VVk/edit) | [Slides](https://drive.google.com/file/d/0B404RPOa1C5sQmsyeW9MM0xZc2s/edit) - ICER Lightning Talk
 
-- CodeSpells: bridging educational language features with industry-standard languages - [Paper](https://dl.acm.org/citation.cfm?id=2674683.2674684&coll=DL&dl=ACM) | [Video](https://drive.google.com/file/d/0B9MGaL4KtkZ_WTkyOWNmMmpPamc/view) | [Slides](https://drive.google.com/file/d/0B6-b8ZnEK-l2YzRUTjZuVVBWQmc/view) - Koli Calling
+**CodeSpells: bridging educational language features with industry-standard languages** - [Paper](https://dl.acm.org/citation.cfm?id=2674683.2674684&coll=DL&dl=ACM) | [Video](https://drive.google.com/file/d/0B9MGaL4KtkZ_WTkyOWNmMmpPamc/view) | [Slides](https://drive.google.com/file/d/0B6-b8ZnEK-l2YzRUTjZuVVBWQmc/view) - Koli Calling
 <details><summary>Abstract + Ref</summary>
 <p>
 K-12 Computer Science Education has been an increasingly popular topic worldwide. Additionally, with K-12 standardized testing moving online, students are being required to improve their computer skills, which, among other factors, has also motivated the discussion to add computer science to the core curriculum [6, 8, 35, 22]. Educational programming languages, such as Scratch [25] and Alice [11], have a set of features that foster their use with younger students [27] such as drag-and-drop, limited API, and visual output. Given that novices can be introduced to such educational languages with a basic understanding of computer science concepts, industry-standard programming languages like Java can now be introduced to younger students.
@@ -178,7 +178,7 @@ Sarah Esper, Stephen R. Foster, William G. Griswold, Carlos Herrera, and Wyatt S
 </p>
 </details>
 
-- It Is Not Just About Mass Production Of Learning - [Paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvbmxpbmVlZHVjYXRpb253b3Jrc2hvcHxneDozYmYyODc4MWU3MWY4YjU4) | [Slides](https://docs.google.com/presentation/u/6/d/1wbc36Fxf5dqLC8_OfriIiKfVdHgARsc4XUATphosmb8/edit#slide=id.g32efc8841_056) - CHI
+**It Is Not Just About Mass Production Of Learning** - [Paper](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvbmxpbmVlZHVjYXRpb253b3Jrc2hvcHxneDozYmYyODc4MWU3MWY4YjU4) | [Slides](https://docs.google.com/presentation/u/6/d/1wbc36Fxf5dqLC8_OfriIiKfVdHgARsc4XUATphosmb8/edit#slide=id.g32efc8841_056) - CHI
 <details><summary>Abstract + Ref</summary>
 <p>
 Collaborative and community learning is well researched in traditional learning spaces. Communities of Practice and Computer Supported Collaborative Learning spaces and pedagogies support learners to experience learning through activities, personal interactions and innovative technologies. This becomes more difficult when designing learning at scale environments because these environments need to motivate learners while not being able to impart the values of the discipline through in-person interactions. In this work we introduce an alternative learning at scale environment, CodeSpells. CodeSpells is an epistemic game that attempts to motivates learners to acquire knowledge, develop skills, embrace values, identify with the discipline, and gain the ability to authentically problem solve. Through this work we will show how the theory of Epistemic Frames is critical to motivating and enculturating learners not only in our non-traditional environment, but also in more traditional MOOC-like learning at scale approaches.
@@ -189,7 +189,7 @@ Sarah Esper, Sam R. Wood, Stephen R. Foster, Sorin Lerner, William G. Griswold, 
 </p>
 </details>
 
-- A Discussion on Adopting Peer Instruction in a Course Focused on Risk Management - [Paper](https://dl.acm.org/citation.cfm?id=2591468.2591496&coll=DL&dl=ACM) | [Slides](https://docs.google.com/presentation/d/1GiXHYIQIG451IYxbhV_RS8FnIR9t69kKqvEJaBcY8P0/edit) - Journal of Computer Science
+**A Discussion on Adopting Peer Instruction in a Course Focused on Risk Management** - [Paper](https://dl.acm.org/citation.cfm?id=2591468.2591496&coll=DL&dl=ACM) | [Slides](https://docs.google.com/presentation/d/1GiXHYIQIG451IYxbhV_RS8FnIR9t69kKqvEJaBcY8P0/edit) - Journal of Computer Science
 <details><summary>Abstract + Ref</summary>
 <p>
 Peer Instruction (PI) has been shown to promote learning in introductory CS courses as well as upper-division courses such as architecture. A common thread among PI courses is that they focus on programs, algorithms, or equations that follow clear rules. In these courses there is usually one answer, though there may be varying approaches to finding it. An open-question in the PI research is: How could PI be incorporated in a course such as Software Engineering, where the focus is risk management and is therefore situational and dependent on personal experience and resources? This paper addresses one approach to developing PI materials for such a course. The pedagogy has been slightly modified: the instructor asks clicker questions, but then asks the students to call out suggestions for the answers. This paper describes this change and presents data from a student survey about their experiences. A call to the community is made to discuss how this and other modifications may be beneficial pedagogical changes to PI.
@@ -200,7 +200,7 @@ Sarah Esper. 2014. A discussion on adopting peer instruction in a course focused
 </p>
 </details>
 
-- CodeSpells: How to Design Quests to Teach Java Concepts - [Paper](https://dl.acm.org/citation.cfm?id=2591468.2591490&coll=DL&dl=ACM) | [Slides](https://docs.google.com/presentation/d/1G1Awc1ul4ZrhtS_UlXJJOAZVJ-QdZNhSUWO6OKm7lso/edit) - Journal of Computer Science
+**CodeSpells: How to Design Quests to Teach Java Concepts** - [Paper](https://dl.acm.org/citation.cfm?id=2591468.2591490&coll=DL&dl=ACM) | [Slides](https://docs.google.com/presentation/d/1G1Awc1ul4ZrhtS_UlXJJOAZVJ-QdZNhSUWO6OKm7lso/edit) - Journal of Computer Science
 <details><summary>Abstract + Ref</summary>
 <p>
 Serious games are a good approach to teaching computer science [7]. But there are still complications that arise, for example, no access to an instructor. This paper presents a study conducted using CodeSpells, a 3D immersive video game that aims to teach novice programmers basic Java concepts [3]. This paper specifically addresses the design of the quests in CodeSpells that provide scaffolding to support students in learning. The study analyzed how 16 students aged 8--12 understood and modified basic Java programs to complete quests. Based on game-play from an exploratory study, quests were added to engage students earlier and in more complex code edits. Both student understanding of programming and their comfort with modifying code was studied. This paper presents findings and lessons learned in quest design, and shows that quest design should set the expectation for students to engage with the code, not just use the code.
@@ -211,7 +211,7 @@ Sarah Esper, Samantha R. Wood, Stephen R. Foster, Sorin Lerner, and William G. G
 </p>
 </details>
 
-- Children's Perceptions of What Counts as a Programming Language - [Paper](https://dl.acm.org/citation.cfm?id=2591468.2591491&coll=DL&dl=ACM) - Journal of Computer Science
+**Children's Perceptions of What Counts as a Programming Language** - [Paper](https://dl.acm.org/citation.cfm?id=2591468.2591491&coll=DL&dl=ACM) - Journal of Computer Science
 <details><summary>Abstract + Ref</summary>
 <p>
 An educational programming language may be more accessible, less frustrating, and more rewarding for young students. However, if a student thinks that the educational language does not constitute actual computer programming, it is hard to build interest in the subject and confidence in their programming skills. We conducted a study in a summer enrichment program for academically high-achieving students entering the sixth grade. Students were interviewed about their perception of various computer programming environments and our analysis of their reasoning helps us to better understand students' tacit assumptions about computer programming. Half of the students were selected to complete a worksheet showing the connections between the programming language Scratch, Java, C++, and Python. Using linear regression we found that there were no statistically significant differences between students who did and did not complete this worksheet in terms of confidence and perception.
@@ -223,11 +223,11 @@ Colleen Lewis, Sarah Esper, Victor Bhattacharyya, Noelle Fa-Kaji, Neftali Doming
 </details>
 
 ### 2013 - Published as Sarah Esper
-- Learning to Program with Magic - [Slides](https://docs.google.com/presentation/d/1U62KA-zAklXyExzOKl8ArK5GrvaPOU2s8Y61n7m8ZfE/edit#slide=id.p13) - MozFest
+**Learning to Program with Magic** - [Slides](https://docs.google.com/presentation/d/1U62KA-zAklXyExzOKl8ArK5GrvaPOU2s8Y61n7m8ZfE/edit#slide=id.p13) - MozFest
 
-- Guiding Novice Programmers in Self-Regulated Learning: A Gamified Approach - [Slides](https://drive.google.com/drive/folders/0B404RPOa1C5seHRaSDhpRnp6YVE?usp=sharing) - UCSD Thesis Proposal
+**Guiding Novice Programmers in Self-Regulated Learning: A Gamified Approach** - [Slides](https://drive.google.com/drive/folders/0B404RPOa1C5seHRaSDhpRnp6YVE?usp=sharing) - UCSD Thesis Proposal
 
-- Student Experience in a Student-Centered Peer Instruction Classroom - [Paper](https://dl.acm.org/citation.cfm?id=2493394.2493407&coll=DL&dl=ACM) - ICER
+**Student Experience in a Student-Centered Peer Instruction Classroom** - [Paper](https://dl.acm.org/citation.cfm?id=2493394.2493407&coll=DL&dl=ACM) - ICER
 <details><summary>Abstract + Ref</summary>
 <p>
 Although studies have shown Peer Instruction (PI) in computing courses to be beneficial for learning and retention, study of the student experience has been limited to attitudinal survey results. This study provides a preliminary evaluation of student experiences in a PI course -- specifically asking them to reflect on their role as a student in a PI lecture compared to a standard university lecture. Student responses to this question are first analyzed using Chi's Interactive-Constructive-Active-Passive framework which categorizes student activities by their value in a constructivist learning framework. This analysis finds that the majority of students reported activity in a PI lecture as "interactive" in contrast with "active" (e.g. taking notes) in a standard lecture. Additionally, a grounded theory open-coding analysis provides an initial examination of student perceptions of the PI lecture experience. Although students positively value learning-related aspects (feedback and increased understanding) a surprising breadth of value was noted around issues of affect and increased sense of community. In particular, these experiences invite discussion about PI and issues of STEM retention in post-secondary education.
@@ -238,7 +238,7 @@ Beth Simon, Sarah Esper, Leo Porter, and Quintin Cutts. 2013. Student experience
 </p>
 </details>
 
-- CodeSpells: Embodying the Metaphor of Wizardry through Programming - [Paper](https://dl.acm.org/citation.cfm?id=2462476.2465593&coll=DL&dl=ACM) - ITiCSE
+**CodeSpells: Embodying the Metaphor of Wizardry through Programming** - [Paper](https://dl.acm.org/citation.cfm?id=2462476.2465593&coll=DL&dl=ACM) - ITiCSE
 <details><summary>Abstract + Ref</summary>
 <p>
 This paper addresses how CodeSpells uses the metaphor of wizardry, along with an embodied API to engage students in learning to program in Java. Giving novice programmers a concrete representation of code has been encouraged and shown to help students understand the concepts with more ease. There have been many attempts to improve the novice learning experience by providing: a visual programming language, a hardware component or an application that is more approachable. The benefit of this research is that students are better able to understand how abstract code effects the environment.
@@ -251,7 +251,7 @@ Sarah Esper, Stephen R. Foster, and William G. Griswold. 2013. CodeSpells: embod
 </p>
 </details>
 
-- On the Nature of Fires and How to Spark Them When You’re Not There - [Paper](https://dl.acm.org/citation.cfm?id=2445290) - SIGCSE
+**On the Nature of Fires and How to Spark Them When You’re Not There** - [Paper](https://dl.acm.org/citation.cfm?id=2445290) - SIGCSE
 <details><summary>Abstract + Ref</summary>
 <p>
 Traditionally, computer science education research contributes new tools, techniques, and theories to improve institutionalized learning spaces e.g. classrooms. However, we take the position that the study and improvement of computer science learning spaces outside the classroom are just as important. We take a step toward illuminating the critical qualities of non-institutional computer science learning spaces by engaging in a grounded-theoretical examination of first-hand accounts of non-institutional learning. To further study the topic, we attempted to recreate (in the lab) a learning environment with many qualities that characterize non-institutional learning. To make this possible, we employed a modified version of CodeSpells -- a video game designed to teach Java programming in a way that engenders the sense of sustained, playful, creative exploration driven entirely by the learner. This study introduced 40 girls, ages 10 to 12, to programming for the first time. We use the results of both studies to develop a theoretical framework which we use to examine existing tools such as Scratch, Alice, and educational games in a new light.
@@ -262,7 +262,7 @@ Sarah Esper, Stephen R. Foster, and William G. Griswold. 2013. On the nature of 
 </p>
 </details>
 
-- A Post-Broccoli Paradigm: Educational Games with Diverse, Sustainable Ecosystems - [Paper](https://dl.acm.org/citation.cfm?id=2470654.2470669&coll=DL&dl=ACM) - CHI
+**A Post-Broccoli Paradigm: Educational Games with Diverse, Sustainable Ecosystems** - [Paper](https://dl.acm.org/citation.cfm?id=2470654.2470669&coll=DL&dl=ACM) - CHI
 <details><summary>Abstract + Ref</summary>
 <p>
 We investigate the unique educational benefits of 1-on-1 competitive games, arguing that such games can be just as easy to design as single-player educational games, while yielding a more diverse and sustainable learning experience. We present a study of chess and StarCraft II in order to inform the design of similar educational games and their communities. We discuss a competitive game we designed to teach Java programming. We evaluate the game by discussing its user study. Our main contributions are 1) an argument that the use of 1-on-1 competition can solve two existing problems inherent to single-player games, 2) an analysis of the features that make competitive games effective learning environments, and 3) an early but encouraging description of the emergent learning environment one can expect from designing an educational game with these features. - VIDEO
@@ -274,7 +274,7 @@ Stephen R. Foster, Sarah Esper, and William G. Griswold. 2013. From competition 
 </details>
 
 ### 2012 - Published as Sarah Esper
-- Understanding the Expert Debugging Process to Inform the Design of Debugging Tools - UCSD Research Exam
+**Understanding the Expert Debugging Process to Inform the Design of Debugging Tools** - UCSD Research Exam
 <details><summary>Ref</summary>
 <p>
 Ref:
@@ -283,7 +283,7 @@ Sarah Esper. Understanding the Expert Debugging Process to Inform the Design of 
 </p>
 </details>
 
-- Exploratory Homeworks: An Active Learning Tool for Textbook Reading - [Paper](http://dl.acm.org/citation.cfm?id=2361276.2361297&coll=DL&dl=ACM&CFID=157125212&CFTOKEN=72878032) - ICER
+**Exploratory Homeworks: An Active Learning Tool for Textbook Reading** - [Paper](http://dl.acm.org/citation.cfm?id=2361276.2361297&coll=DL&dl=ACM&CFID=157125212&CFTOKEN=72878032) - ICER
 <details><summary>Abstract + Ref</summary>
 <p>
 Constructivist learning theory suggests that learners must construct their own understandings, rather than have understanding passively dumped into their brains. These findings support the US National Research Council's recommendations for the adoption of active learning pedagogies in the classroom. However, the "classroom lecture" is only one of the resources students commonly have for learning in higher education. In this paper, we present exploratory homeworks -- a tool to support active learning for teaching programming languages. By leveraging the opportunity for the student to interact with the computer/compiler, we seek to provide a model for students of how to explore and understand programming language constructs and concepts. We report on the use of 15 exploratory homework assignments used in a CS0 course with 440 students in Winter 2011. We provide a model and advice for others wishing to develop exploratory homeworks for their programming courses and present quantitative and qualitative evidence regarding students' positive valuation of the homeworks.
@@ -295,7 +295,7 @@ Sarah Esper, Beth Simon, and Quintin Cutts. 2012. Exploratory homeworks: an acti
 </p>
 </details>
 
-- The Abstraction Transition Taxonomy: Developing Desired Learning Outcomes through the Lens of Situated Cognition - [Paper](http://dl.acm.org/citation.cfm?id=2361276.2361290&coll=DL&dl=ACM&CFID=157125212&CFTOKEN=72878032) - ICER
+**The Abstraction Transition Taxonomy: Developing Desired Learning Outcomes through the Lens of Situated Cognition** - [Paper](http://dl.acm.org/citation.cfm?id=2361276.2361290&coll=DL&dl=ACM&CFID=157125212&CFTOKEN=72878032) - ICER
 <details><summary>Abstract + Ref</summary>
 <p>
 We report on a post-hoc analysis of introductory programming lecture materials. The purpose of this analysis is to identify what knowledge and skills we are asking students to acquire, as situated in the activity, tools, and culture of what programmers do and how they think. The specific materials analyzed are the 133 Peer Instruction questions used in lecture to support cognitive apprenticeship -- honoring the situated nature of knowledge. We propose an Abstraction Transition Taxonomy for classifying the kinds of knowing and practices we engage students in as we seek to apprentice them into the programming world. We find students are asked to answer questions expressed using three levels of abstraction: English, CS Speak, and Code. Moreover, many questions involve asking students to transition between levels of abstraction within the context of a computational problem. Finally, by applying our taxonomy in classifying a range of introductory programming exams, we find that summative assessments (including our own) tend to emphasize a small range of the skills fostered in students during the formative/apprenticeship phase.
@@ -307,7 +307,7 @@ Quintin Cutts, Sarah Esper, Marlena Fecho, Stephen R. Foster, and Beth Simon. 20
 </details>
 
 ### 2011 - Published as Sarah Esper
-- Computing as the 4th "R": a general education approach to computing education - [Paper](http://dl.acm.org/citation.cfm?id=2016938&bnc=1) - ICER
+**Computing as the 4th "R": a general education approach to computing education** - [Paper](http://dl.acm.org/citation.cfm?id=2016938&bnc=1) - ICER
 <details><summary>Abstract + Ref</summary>
 <p>
 Computing and computation are increasingly pervading our lives, careers, and societies - a change driving interest in computing education at the secondary level. But what should define a "general education" computing course at this level? That is, what would you want every person to know, assuming they never take another computing course? We identify possible outcomes for such a course through the experience of designing and implementing a general education university course utilizing best-practice pedagogies. Though we nominally taught programming, the design of the course led students to report gaining core, transferable skills and the confidence to employ them in their future. We discuss how various aspects of the course likely contributed to these gains. Finally, we encourage the community to embrace the challenge of teaching general education computing in contrast to and in conjunction with existing curricula designed primarily to interest students in the field.
@@ -318,7 +318,7 @@ Quintin Cutts, Sarah Esper, and Beth Simon. 2011. Computing as the 4th "R": a ge
 </p>
 </details>
 
-- Experience Report: an AP CS Principles AP Requirement - [Paper](https://csetechrep.ucsd.edu/Dienst/UI/2.0/Describe/ncstrl.ucsd_cse/CS2011-0965) - UCSD Technical Report
+**Experience Report: an AP CS Principles AP Requirement** - [Paper](https://csetechrep.ucsd.edu/Dienst/UI/2.0/Describe/ncstrl.ucsd_cse/CS2011-0965) - UCSD Technical Report
 <details><summary>Abstract + Ref</summary>
 <p>
 We report on the development and deployment of a pilot of the new Advanced Placement CS Principles course in the United States. The course is designed to introduce core computational concepts and instill computational thinking practices. We report on an initial offering with 571 university students, mostly non-CS majors taking the course as a general education requirement. We discuss the instructional design supporting the course, describe how the various components were implemented, and review student work and valuation of the course. Though the course appears to “teach programming” in Alice, students reported gaining significant analysis and communication skills they could use in their daily life. We reflect on how instructional design decisions are likely to have supported this experience and consider the implications for other K-12 computing/IT education efforts as well as for regular CS1 courses.
