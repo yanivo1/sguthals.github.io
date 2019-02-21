@@ -343,4 +343,9 @@ Beth Simon, Sarah Esper and Quintin Cutts. 2011. Experience Report: an AP CS Pr
 ## Resume
 
 ## Contact
-<form action="http://formspree.io/sarah@guthals.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
+
+### All of the Emails
+sarah@guthals.com
+sarah@thewecan.zone
+sguthals@microsoft.com
+
