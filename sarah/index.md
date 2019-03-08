@@ -11,6 +11,8 @@ During grad school I started a company focused on teaching kids how to code thro
 
 I'm currently a Sr Program Manager at Microsoft in the Academic Ecosystems team where my focus is to help K-12 students and lifelong learners learn and use Azure to meet their personal and professional goals. I work remotely from San Diego with my husband, one year old daughter, puppy, and two cats.
 
+## Projects
+
 ## Publications
 ### 2019 - Published as Sarah Guthals
 **GitHub For Dummies** - [Book](https://www.amazon.com/GitHub-Dummies-Guthals/dp/1119572673/)
@@ -284,8 +286,6 @@ Ref:
 
 Beth Simon, Sarah Esper and Quintin Cutts. 2011. Experience Report: an AP CS Principles University Pilot.  Technical Report CS 2011-0965. University of California at San Diego. 
 </details>
-
-## Projects
 
 ## Contact
 sarah@guthals.com  
