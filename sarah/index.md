@@ -88,6 +88,12 @@ Make things happen – create a working application you can share with friends
 You can now Mod your Minecraft Education Edition! And what better way to start than to grief your new worlds?? Though when we are in our friends worlds, we want to be respectful, in our own worlds, we can grief everything we want! This book teaches you four awesome mods to write to grief. Invite your friends into your world and watch their surprise as you blow up mountains, make lava pits, and have monsters attack from all angles. Don't worry - you're still in control...or are you?
 </details>
 
+**Building 3D Digital Games** - [Book](https://www.boffinsbooks.com.au/books/9781119453475/building-3d-digital-games)
+<details><summary>Abstract</summary>
+So you want to make your very own 3D video game? That is an awesome idea!
+Making video games is A LOT of fun, but it can be a lot of hard work too. The video games that you play on your computer, game consoles, or even mobile devices were built by large teams of professional engineers over years! For example, the original Legend of Zelda took over 100 people 3 years to make! What you will be building here may not be as polished as the games you play right now, but you can think of them like prototype games – the games that you make to get your idea down, have your friends play it, and then when you’ve perfected your idea and gotten some more experience you can make it into a game that people can play around the world!
+</details>
+
 ### 2016 - Published as Sarah Guthals
 **Building a Minecraft City: Build Like a Pro! (Dummies Junior)** - [Book](https://www.amazon.com/Building-Minecraft-City-Dummies-Junior/dp/1119316413/ref=sr_1_1?ie=UTF8&qid=1541355371&sr=8-1&keywords=Building+a+Minecraft+City)
 <details><summary>Abstract</summary>
